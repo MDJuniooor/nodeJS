@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+learn-express/node_modules/
+learn-express2/node_modules/
+learn-mongoose/node_modules/
+learn-sequalize/node_modules/
